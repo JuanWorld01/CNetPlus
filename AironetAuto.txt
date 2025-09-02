@@ -10,3 +10,4 @@ Conf t
 		ssid NET+WIFIwilfred
 		bridge-group 1
 end
+
